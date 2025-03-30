@@ -1,0 +1,6 @@
+.venv/
+frames/
+dataset/
+
+*.mp4
+*.m4v
